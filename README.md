@@ -58,6 +58,7 @@ This is a simple chatbot that leverages Hugging Face's GPT-2 model to provide re
     http://localhost:8501
     ```
 
+
 ### Evaluation and Testing
 
 1. ***Usefulness of Responses:***
@@ -74,12 +75,16 @@ The application handles a variety of queries, including but not limited to:
 
 3. Users can explore different topics related to food and nutrition through natural language queries.
 
+
+
 ### API Documentation
 
 The application integrates with the Hugging Face Transformers library for natural language processing using the GPT-2 model. For detailed documentation on using Transformers with Streamlit and setting up the environment, refer to:
 
 - [Hugging Face Transformers Documentation](https://huggingface.co/docs/transformers/index)
 - [Streamlit Documentation](https://docs.streamlit.io/)
+
+
 
 ### Additional Information
 
