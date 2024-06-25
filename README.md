@@ -89,4 +89,4 @@ The application integrates with the Hugging Face Transformers library for natura
 ### Additional Information
 
 - Code Overview: The main application code is located in app.py.
-- YouTube Video: For a demonstration of the application, please watch the YouTube video.
+- Demo Video: [Link] (https://www.loom.com/share/f5a6f4bb1a46421ca48a017c14e0243d?sid=63db2f28-a1c0-4bc7-a7f5-63f6cadf4f35)
